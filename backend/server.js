@@ -7,7 +7,7 @@ const app = express();
 
 // CORS Configuration - FIXED
 const allowedOrigins = [
-  'https://healtifychatbot.vercel.app',
+  'https://healtify-chat-bot.vercel.app',
   'http://localhost:5173',
   'http://localhost:3000'
 ];
